@@ -52,4 +52,4 @@
 
 ---
 
-⭐ **Thanks for visiting!** Happy Coding! 🚀
+⭐ **Thanks for visiting!**  🚀
