@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm **Gauravi Prabuddhi**  
-#### 🎯 Passionate Business Analysis
-#### 🎯 Passionate Project Manager
-#### 🎯 Passionate Quality Assurance (QA) Engineer
+#### 🎯 Passionate about Business Analysis
+#### 🎯 Passionate about Project Manager
+#### 🎯 Passionate about Quality Assurance (QA) Engineer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gauravi01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
