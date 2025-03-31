@@ -1,4 +1,6 @@
 ### Hi there! 👋 I'm **Gauravi Prabuddhi**  
+#### 🎯 Passionate Business Analysis
+#### 🎯 Passionate Project Manager
 #### 🎯 Passionate Quality Assurance (QA) Engineer
 
 <p align="center">
